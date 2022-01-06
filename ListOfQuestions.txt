@@ -1,0 +1,76 @@
+This is a rough copy and paste of the interview questions from https://www.csestack.org/interview-coding-questions-programming-language/ that this repo is based on.
+
+-Basic Coding Questions-
+1. Writing “Hello, World!” program. (C/C++, Python, Java)
+2. Write a program to display the list of even numbers.
+3. Find the Factorial of a given number.
+4. Compare Two Numbers using else-if statement and output smaller and larger numbers.
+5. Write a program to determine If the given year is a Leap year.
+6. Print all the elements in the Fibonacci number series.
+This program can be implemented using a loop or recursion technique.
+7. Write a program to check if the number is Palindrome number or not.
+8. Generate all the prime numbers between one & the given number.
+9. Print the Pyramid of stars using nested for loops.
+10. Print Reversed pyramid on programming console using for loops & decrement operator.
+11. Write a program for Nested Switch.
+12. Write a program to calculate Circle Area using radius.
+13. Find the Factorial of a number using recursion technique.
+14. Print the Pyramid of numbers using for loops.
+15. Write a program to Find a Maximum of Two Numbers using the conditional operator.
+16. Write a program to Find Minimum of Two Numbers using the conditional operator.
+17. Write a program that will read a float type value from the keyboard and print the following output.
+    1) the smallest integer which is not less than the number
+    2) given number
+    3) the largest integer which is not greater than the number
+18. Find second largest/smallest element in array list.
+19. Choose the random number from the array. (Python)
+20. Check if all the elements in the array are the same. (Python)
+21. Print all the unique numbers from the array. (Python)
+22. Write a program to generate 5 Random nos. between 1 to 100 and the number should not contain a decimal value.
+23. Write a program to display a  grade according to Marks obtained by the student.
+24. Find SUM AND PRODUCT of a given Digits in the number.
+25. Write a program to find the sum of all integers greater than 150 and less than 290 that are divisible by 3
+26. Write a program to concatenate string using for Loop.
+27. Display Multiplication Table for the given number.
+28. Write a program to Swap the values given by the user without using the third variable. (Python)
+29. Write a program to convert given the number of days into months and days. (For the sake of simplicity, Assume that each month contains 30 days).
+30. Print the Invert Triangle using the while loop.
+31. Write a program to find whether given no. is Armstrong or not.
+32. How to check if the given number is the power of 3 (k- any integer)?
+33. Write a program to print the day of the week based on the given number using the switch case. (For example, print “Monday” for user input 1, print “Tuesday” for user input 2…)
+34. What is the Harmonic Series? Write a program to generate the Harmonic Series.
+35. Write a program to find the average of consecutive n-Odd numbers and n-Even numbers.
+36. Print the Triangle as follow, using for loops. 1 2 3 4 5 6 7 8 9 10 … N
+37. Create the class having a member variable of employee detail and getter and setter function for each variable.
+38. Write the program to read and write a file. (Python, C/C++)
+39. Find the longest line from the file. (Python)
+40. Take the students Mark as User input and check the range of Mark. (Java)
+
+-String Handling-
+41. Find the first duplicate/repeated character in the string. (Python)
+42. Write a program to check if the substring is present in the given string. (C/C++)
+43. Write a program to reverse the given string. (Python)
+44. How to reverse a string without affecting special characters?
+45. How to convert the given string to an integer value? (C/C++)
+46. Write a program to check the Palindrome String. (C/C++)
+47. Write a program to check the Anagram String. (C/C++)
+48. Remove white spaces from the given string. (C/C++)
+49. Find all the permutations of the given string. (Python)
+50. Find Remainder without using Modulus Operator
+51. Remove all the duplicates characters from the string
+
+-Sorting Algorithm-
+52. Write a program to check if the array is sorted. (C/C++)
+53. Selection Sort (Python, C/C++)
+54. Insertion Sort
+55. Bubble Sort (C/C++)
+56. QuickSort (Example | Algorithm | Programming | Complexity)
+
+-Bit Manipulation-
+57. Count the number of ones in the binary string. (C/C++)
+58. How to Find 2’s Complement?
+59. Write a program to convert the Decimal number to Binary. (C/C++)
+
+-Advanced Coding Questions-
+60. Write a C program to upload the file to another PC connected to the network?
+61. Write a C program to download the file from the network?
