@@ -1,7 +1,7 @@
-This is a rough copy and paste of the interview questions from https://www.csestack.org/interview-coding-questions-programming-language/ that this repo is based on.
+This is a rough copy and paste of the interview questions from https://www.csestack.org/interview-coding-questions-programming-language/ that this repo is based on. I will also be marking my progress as done with an asterisk while ignoring all Java problems since I currently lack knowledge with the programming language.
 
 -Basic Coding Questions-
-1. Writing “Hello, World!” program. (C/C++, Python, Java)
+1. Writing “Hello, World!” program. (C/C++, Python, Java)*
 2. Write a program to display the list of even numbers.
 3. Find the Factorial of a given number.
 4. Compare Two Numbers using else-if statement and output smaller and larger numbers.
